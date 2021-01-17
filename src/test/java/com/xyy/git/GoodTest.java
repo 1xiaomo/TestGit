@@ -6,6 +6,7 @@ public class GoodTest {
 		
 		System.out.println("增加一行");
 		
+		System.out.println("TestGit");
 		System.out.println("second");
 	}
 }
