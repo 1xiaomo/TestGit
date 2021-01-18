@@ -9,6 +9,8 @@ public class GoodTest {
 		System.out.println("TestGit");
 		System.out.println("second");
 		
-		System.out.println("hotfix½â¾ö2");
+		
+		
+		System.out.println("hotfix 333---3333");
 	}
 }
