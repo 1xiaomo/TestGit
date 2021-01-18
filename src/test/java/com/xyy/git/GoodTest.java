@@ -8,5 +8,8 @@ public class GoodTest {
 		
 		System.out.println("TestGit");
 		System.out.println("second");
+		
+		
+		System.out.println("hotfix分支解决Bug");
 	}
 }
